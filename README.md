@@ -1,4 +1,4 @@
-SWG - Static Website Generator
+SWG - Static Website Generator - An Amazing Project
 ==============================
 
 Copyleft by Simone Margaritelli <evilsocket@gmail.com>
